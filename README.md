@@ -1,23 +1,5 @@
-<<<<<<< HEAD
-## Hi there
-
-
-
-<!--
-**Sherouz/Sherouz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-=======
+# Welcome to my GitHub Profile 🚀
+===
 ## 👨🏽‍💻 About Me (Quick Intro)
 
 ![Location](https://img.shields.io/badge/Location-Tehran-FF4500?logo=map&logoColor=white)
@@ -34,8 +16,6 @@ Just a guy learning by trial and error — mostly working with Python basics, ho
 - Email: [sherouz@proton.me](mailto:sherouz@proton.me)
 
 ---
-
-
 
 ## 🧠 What I'm Learning
 
@@ -54,7 +34,6 @@ I'm still in the early stages, mostly covering the basics and moving slowly towa
 
 ---
 
-
 ## 🛠️ Tools & Resources
 
 ![VS Code](https://img.shields.io/badge/Editor-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
@@ -69,4 +48,3 @@ I'm still in the early stages, mostly covering the basics and moving slowly towa
   - [Python for Beginners with Mosh, English Video](https://youtu.be/kqtD5dpn9C8?si=p6alLmEsFokj_nCb)
   - AI tools (ChatGPT, Grok)
   - Telegram and X coding communities
->>>>>>> 8b1c914 (Initial commit: Add profile README)
