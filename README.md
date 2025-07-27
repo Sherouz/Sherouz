@@ -4,7 +4,6 @@
 ![Level](https://img.shields.io/badge/Level-Beginner_to_Intermediate-00CED1?logo=bookstack&logoColor=white)
 ![Goal](https://img.shields.io/badge/Goal-Backend_Developer-FFD700?logo=codeigniter&logoColor=Black&Orange)
 ![Progress](https://img.shields.io/badge/Learning-In_Progress-orange)
-![Python](https://img.shields.io/badge/Python-3.11+-blue)
 
 
 
