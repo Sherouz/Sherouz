@@ -1,5 +1,7 @@
 # Welcome to my GitHub Profile 🚀
-===
+
+---
+
 ## 👨🏽‍💻 About Me (Quick Intro)
 
 ![Location](https://img.shields.io/badge/Location-Tehran-FF4500?logo=map&logoColor=white)
