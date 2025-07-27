@@ -1,5 +1,17 @@
 # Welcome to my GitHub Profile 🚀
 
+![Status](https://img.shields.io/badge/Status-Actively_Learning_&_updating-brightgreen)
+![Level](https://img.shields.io/badge/Level-Beginner_to_Intermediate-00CED1?logo=bookstack&logoColor=white)
+![Goal](https://img.shields.io/badge/Goal-Backend_Developer-FFD700?logo=codeigniter&logoColor=Black&Orange)
+![Progress](https://img.shields.io/badge/Learning-In_Progress-orange)
+![Python](https://img.shields.io/badge/Python-3.11+-blue)
+
+
+
+Hey there 👋🏾  
+This repo is basically my Python learning journal. I use it to track my practice, mess around with code, and try out things as I go from zero to (hopefully) backend developer.  
+No fancy stuff — just raw progress, broken code, and occasional improvements.
+
 ---
 
 ## 👨🏽‍💻 About Me (Quick Intro)
