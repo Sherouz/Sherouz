@@ -59,13 +59,18 @@ I'm still in the early stages, mostly covering the basics and moving slowly towa
 
 - **Editor**: VS Code, Acode
 - **Environment**: Python 3.11+, Termux (a terminal emulator for Android)
-- **Learning Resources**:
-  - [Maryam Sadeghi's Persian Python Course](https://youtu.be/BsScQ1mOKrA?si=Wvgidb6tAkt15jly)
-  - [Jadi’s Persian Python Course](https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D8%A8%D8%A7-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-%D9%85%D9%82%D8%AF%D9%85%D8%A7%D8%AA%DB%8C-mk346/)
-  - [GoalKicker Python Book (free PDF)](https://www.goalkicker.com/PythonBook/PythonNotesForProfessionals.pdf)
-  - [Python for Beginners with Mosh, English Video](https://youtu.be/kqtD5dpn9C8?si=p6alLmEsFokj_nCb)
-  - AI tools (ChatGPT, Grok)
-  - Telegram and X coding communities
+
+### Persian Learning Resources
+- [Maryam Sadeghi's Persian Python Course](https://youtu.be/BsScQ1mOKrA?si=Wvgidb6tAkt15jly) - A beginner-friendly Persian video course for Python basics
+- [Jadi’s Persian Python Course](https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D8%A8%D8%A7-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-%D9%85%D9%82%D8%AF%D9%85%D8%A7%D8%AA%DB%8C-mk346/) - A comprehensive Persian course for Python beginners
+- Telegram coding communities - Active Persian groups for sharing Python tips and projects
+
+### English Learning Resources
+- [GoalKicker Python Notes (Free PDF)](https://www.goalkicker.com/PythonBook/PythonNotesForProfessionals.pdf) - A comprehensive guide for Python learners
+- [Python for Beginners with Mosh, English Video](https://youtu.be/kqtD5dpn9C8?si=p6alLmEsFokj_nCb) - A clear and engaging video tutorial for Python basics
+- AI tools (ChatGPT, Grok) - Interactive tools for coding help and practice
+- X coding communities - Global discussions on Python and backend development
+
 
 ---
 
