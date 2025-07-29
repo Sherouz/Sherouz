@@ -5,12 +5,14 @@
 ![Level](https://img.shields.io/badge/Level-Beginner_to_Intermediate-00CED1?logo=bookstack&logoColor=white)
 ![Goal](https://img.shields.io/badge/Goal-Backend_Developer-FFD700?logo=codeigniter&logoColor=Black&Orange)
 ![Progress](https://img.shields.io/badge/Learning-In_Progress-orange)
+![Next](https://img.shields.io/badge/Next-Flask_Adventure-00A3E0?logo=flask&logoColor=white)
 
 
 
-Hey there 👋🏾  
-This repo is basically my Python learning journal. I use it to track my practice, mess around with code, and try out things as I go from zero to (hopefully) backend developer.  
-No fancy stuff — just raw progress, broken code, and occasional improvements.
+Hey there! 👋🏾
+I'm Sherouz, an aspiring backend developer from Tehran, Iran.  
+This is my GitHub showcase where I document my Python learning journey, share my progress, and plan for building web apps with Flask and Django.  
+Join me as I grow from beginner to backend pro!
 
 ---
 
