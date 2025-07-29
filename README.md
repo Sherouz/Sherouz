@@ -83,6 +83,7 @@ I'm still in the early stages, mostly covering the basics and moving slowly towa
 ---
 
 ### 🔜 What's Next?
+![Future](https://img.shields.io/badge/Future-Open_Source_Contributor-FF6F61?logo=opensourceinitiative&logoColor=white)
 
 - Short-term: Finish learning OOP and start a small Flask project.
 - Long-term: Contribute to open-source backend projects and master Django.
