@@ -17,7 +17,7 @@ No fancy stuff — just raw progress, broken code, and occasional improvements.
 
 ![Location](https://img.shields.io/badge/Location-Tehran-FF4500?logo=map&logoColor=white)
 ![Focus](https://img.shields.io/badge/Focus-Backend_Enthusiast-4682B4?logo=server&logoColor=white)
-![Type](https://img.shields.io/badge/Type-Personal_Learning_Project-lightgrey)
+
 
 I'm Shahrouz AKA Sherouz, 23 y/o from Tehran, Iran, still figuring out Python and backend stuff.  
 Just a guy learning by trial and error — mostly working with Python basics, hoping to reach Flask/Django soon.
@@ -39,7 +39,7 @@ I'm still in the early stages, mostly covering the basics and moving slowly towa
 | Python Fundamentals | ✅ Completed | 100% |
 | Loops | ⏳️ In Progress | 50% |
 | Functions & File I/O | ⏳️ In Progress | 40% |
-| OOP & Error Handling | ⏳️ In Progress | 15% |
+| OOP & Error Handling | ⏳️ In Progress | 5% |
 | Scripting & Automation | 🕓 Planned | - |
 | Flask + APIs | 🔜 Coming Soon | - |
 | Django + SQL | ⛔ Not Started | - |
@@ -61,3 +61,15 @@ I'm still in the early stages, mostly covering the basics and moving slowly towa
   - [Python for Beginners with Mosh, English Video](https://youtu.be/kqtD5dpn9C8?si=p6alLmEsFokj_nCb)
   - AI tools (ChatGPT, Grok)
   - Telegram and X coding communities
+
+---
+
+## 🤝🏽 How You Can Help
+
+- Got tips for learning Python or backend development? Drop me an email!
+- Want to collaborate on a beginner-friendly project? Let’s connect!
+- If you like my progress, give this profile a ⭐!
+
+---
+
+⭐ **Thanks for stopping by! Keep coding, keep learning!** ⭐
