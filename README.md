@@ -21,7 +21,7 @@ No fancy stuff — just raw progress, broken code, and occasional improvements.
 ![Automation](https://img.shields.io/badge/Passion-Automation_Enthusiast-6B7280?logo=zap&logoColor=yellow)
 
 
-I'm Shahrouz AKA Sherouz, 23 y/o from Tehran, Iran, still figuring out Python and backend stuff.  
+I'm Shahrouz (aka Sherouz), 23 y/o from Tehran, Iran, still figuring out Python and backend stuff.  
 Just a guy learning by trial and error — mostly working with Python basics, hoping to reach Flask/Django soon.
 - My goal: Become a backend developer by 2026, working on web apps with Flask or Django.
 
