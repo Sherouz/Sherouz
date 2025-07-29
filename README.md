@@ -62,7 +62,7 @@ I'm still in the early stages, mostly covering the basics and moving slowly towa
 - **Learning Resources**:
   - [Maryam Sadeghi's Persian Python Course](https://youtu.be/BsScQ1mOKrA?si=Wvgidb6tAkt15jly)
   - [Jadi’s Persian Python Course](https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D8%A8%D8%A7-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-%D9%85%D9%82%D8%AF%D9%85%D8%A7%D8%AA%DB%8C-mk346/)
-  - [GoalKicker Python Book (free PDF)](https://github.com/bao-vn/Programming-Notes-for-Professionals-books/blob/master/GoalKicker%2FPythonNotesForProfessionals.pdf)
+  - [GoalKicker Python Book (free PDF)](https://www.goalkicker.com/PythonBook/PythonNotesForProfessionals.pdf)
   - [Python for Beginners with Mosh, English Video](https://youtu.be/kqtD5dpn9C8?si=p6alLmEsFokj_nCb)
   - AI tools (ChatGPT, Grok)
   - Telegram and X coding communities
@@ -77,4 +77,14 @@ I'm still in the early stages, mostly covering the basics and moving slowly towa
 
 ---
 
-⭐ **Thanks for stopping by! Keep coding, keep learning!** ⭐
+### 🔜 What's Next?
+
+- Short-term: Finish learning OOP and start a small Flask project.
+- Long-term: Contribute to open-source backend projects and master Django.
+- Always: Keep learning, experimenting, and connecting with the coding community!
+
+> **Note**: This section will be updated over time.
+
+---
+
+🫡 **Thanks for stopping by! Keep coding, keep learning!** 🫡👨🏽‍💻
