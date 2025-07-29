@@ -1,5 +1,6 @@
 # Welcome to my GitHub Profile 🚀
 
+![Profile](https://img.shields.io/badge/Profile-Showcase-8B5CF6?logo=github&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Actively_Learning_&_updating-brightgreen)
 ![Level](https://img.shields.io/badge/Level-Beginner_to_Intermediate-00CED1?logo=bookstack&logoColor=white)
 ![Goal](https://img.shields.io/badge/Goal-Backend_Developer-FFD700?logo=codeigniter&logoColor=Black&Orange)
@@ -17,10 +18,12 @@ No fancy stuff — just raw progress, broken code, and occasional improvements.
 
 ![Location](https://img.shields.io/badge/Location-Tehran-FF4500?logo=map&logoColor=white)
 ![Focus](https://img.shields.io/badge/Focus-Backend_Enthusiast-4682B4?logo=server&logoColor=white)
+![Automation](https://img.shields.io/badge/Passion-Automation_Enthusiast-6B7280?logo=zap&logoColor=yellow)
 
 
 I'm Shahrouz AKA Sherouz, 23 y/o from Tehran, Iran, still figuring out Python and backend stuff.  
 Just a guy learning by trial and error — mostly working with Python basics, hoping to reach Flask/Django soon.
+- My goal: Become a backend developer by 2026, working on web apps with Flask or Django.
 
 
 🔗 Connect with Me:
@@ -47,7 +50,7 @@ I'm still in the early stages, mostly covering the basics and moving slowly towa
 
 ---
 
-## 🛠️ Tools & Resources
+## 🛠️📚 Tools & Resources
 
 ![VS Code](https://img.shields.io/badge/Editor-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=FFD43B)
