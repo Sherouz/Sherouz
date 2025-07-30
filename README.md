@@ -42,8 +42,8 @@ I'm still in the early stages, mostly covering the basics and moving slowly towa
 | Topic | Status | Progress |
 |-------|--------|----------|
 | Python Fundamentals | ✅ Completed | 100% |
+| File I/O | ⏳️ In Progress | 80% |
 | Loops | ⏳️ In Progress | 50% |
-| Functions & File I/O | ⏳️ In Progress | 80% |
 | Functions | ⏳️ In Progress | 10% |
 | OOP & Error Handling | 🕓 Planned | - |
 | Scripting & Automation | 🕓 Planned | - |
