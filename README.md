@@ -43,8 +43,9 @@ I'm still in the early stages, mostly covering the basics and moving slowly towa
 |-------|--------|----------|
 | Python Fundamentals | ✅ Completed | 100% |
 | Loops | ⏳️ In Progress | 50% |
-| Functions & File I/O | ⏳️ In Progress | 40% |
-| OOP & Error Handling | ⏳️ In Progress | 5% |
+| Functions & File I/O | ⏳️ In Progress | 80% |
+| Functions | ⏳️ In Progress | 10% |
+| OOP & Error Handling | 🕓 Planned | - |
 | Scripting & Automation | 🕓 Planned | - |
 | Flask + APIs | 🔜 Coming Soon | - |
 | Django + SQL | ⛔ Not Started | - |
