@@ -56,6 +56,7 @@ I'm still in the early stages, mostly covering the basics and moving slowly towa
 - **Editor**: VS Code, Acode
 - **Environment**: Python 3.12+, Termux (a terminal emulator for Android)
 - **Interactive Tools**: Jupyter Notebook / Jupyter Lab for step-by-step scripting, Markdown notes, and visualization
+- **Version Control**: Git + GitHub
 
 ### English Learning Resources
 
