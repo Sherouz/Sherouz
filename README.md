@@ -39,7 +39,7 @@ I'm in the early stages of my programming journey, focusing on Python fundamenta
 | File I/O                     | ⏳ In Progress   | 80%       |
 | Loops                        | ⏳ In Progress   | 50%       |
 | Functions                    | ⏳ In Progress   | 20%       |
-| Error Handling | 5% | ⏳ In Progress |
+| Error Handling | ⏳ In Progress | 5% |
 | OOP         | 🕓 Planned       | -         |
 | Scripting & Automation       | 🕓 Planned       | -         |
 | Flask + APIs                 | 🔜 Coming Soon   | -         |
