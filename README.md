@@ -2,6 +2,7 @@
 
 Welcome to my GitHub profile! I'm **Sherouz**, an aspiring backend developer from Tehran, Iran, documenting my journey to master Python and build web apps with Flask and Django. This repository serves as a showcase of my learning progress, goals, and resources, designed to inspire and connect with fellow learners. Join me as I grow from beginner to backend pro!
 
+![Monster Brawl Banner](https://via.placeholder.com/1200x400.png?text=Monster+Brawl+Game) <!-- Placeholder for a potential banner image -->
 ![Python](https://img.shields.io/badge/Python-3.12%2B-blue?logo=python)
 ![Status](https://img.shields.io/badge/Status-Actively_Learning-brightgreen)
 ![Goal](https://img.shields.io/badge/Goal-Backend_Developer-FFD700?logo=codeigniter)
