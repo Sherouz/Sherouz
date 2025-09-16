@@ -25,6 +25,8 @@ I prioritize **clarity, reusability, and maintainability** in my code, documenti
 
 ## 📖 My Journey So Far
 
+![My GitHub Contributions](https://github-readme-stats.vercel.app/api/activities?username=Sherouz)
+
 Every line of code I write is part of a bigger path.
 I experiment, break things, rebuild them, and document everything I learn along the way.
 From simple Python scripts to automation and backend APIs, this is my playground.
@@ -45,4 +47,4 @@ If my work is useful or inspiring, you can support it here:
 - Twitter: [@Sherouzlogs](https://x.com/Sherouzlogs?s=09)
 - Email: Sherouz@proton.me
 
-*Last updated automatically with each commit*
+*Last updated: Sept 16, 2025*
