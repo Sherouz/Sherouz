@@ -25,7 +25,7 @@ I prioritize **clarity, reusability, and maintainability** in my code, documenti
 
 ## 📖 My Journey So Far
 
-![My GitHub Contributions](https://github-contributions-svg.deno.dev/api?username=Sherouz)
+![My GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sherouz&theme=github_dark)
 
 Every line of code I write is part of a bigger path.
 I experiment, break things, rebuild them, and document everything I learn along the way.
