@@ -2,7 +2,7 @@
 
 ## 👋🏾 About Me
 
-I'm Shahrouz Nikseresht (aka Sherouz), a 23-year-old aspiring backend developer from Tehran, Iran.
+I'm Shahrouz Nikseresht, a 23-year-old aspiring backend developer from Tehran, Iran.
 I focus on **Python, automation, Flask/Django, APIs, and backend fundamentals**, sharing projects, notes, and experiments as I learn and grow.
 This GitHub documents my journey toward professional backend development through practical coding, project-based learning, and open documentation.
 
@@ -43,8 +43,8 @@ If my work is useful or inspiring, you can support it here:
 
 ## 📫 Connect
 
-- GitHub: [Sherouz](https://github.com/Sherouz)
-- Twitter: [@Sherouzlogs](https://x.com/Sherouzlogs?s=09)
+- GitHub: [Shahrouz](https://github.com/Sherouz)
+- Twitter: [@Shahrouzlogs](https://x.com/Sherouzlogs?s=09)
 - Email: Sherouz@proton.me
 
-*Last updated: Sept 16, 2025*
+*Last updated: Sept 17, 2025*
