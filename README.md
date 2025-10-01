@@ -2,7 +2,7 @@
 
 ## 👋🏾 About Me
 
-I'm Shahrouz Nikseresht, a 23-year-old aspiring backend developer from Tehran, Iran.
+I'm Shahrouz Nikseresht, a 24-year-old aspiring backend developer from Tehran, Iran.
 I focus on **Python, automation, Flask/Django, APIs, and backend fundamentals**, sharing projects, notes, and experiments as I learn and grow.
 This GitHub documents my journey toward professional backend development through practical coding, project-based learning, and open documentation.
 
@@ -16,6 +16,7 @@ This GitHub documents my journey toward professional backend development through
 ## 📂 Featured Projects
 
 - [Retro Terminal Guess](https://github.com/Sherouz/retro-terminal-guess) — Command-line guessing game in Python, emphasizing loops, conditionals, and clean code practices
+- [Coffee Machine CLI](https://github.com/Sherouz/coffee-machine-cli) — Beginner Python CLI project simulating a coffee machine, focusing on OOP and command-line applications
 - More projects coming as I continue building and experimenting
 
 ## 🚀 My Approach
@@ -24,8 +25,6 @@ I focus on **learning by building practical projects**. Each project is designed
 I prioritize **clarity, reusability, and maintainability** in my code, documenting everything openly to track growth and help others follow along.
 
 ## 📖 My Journey So Far
-
-![My GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sherouz&theme=github_dark)
 
 Every line of code I write is part of a bigger path.
 I experiment, break things, rebuild them, and document everything I learn along the way.
@@ -47,4 +46,4 @@ If my work is useful or inspiring, you can support it here:
 - Twitter: [@Shahrouzlogs](https://x.com/Sherouzlogs?s=09)
 - Email: Sherouz@proton.me
 
-*Last updated: Sept 17, 2025*
+*Last updated: Oct 01, 2025*
