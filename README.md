@@ -42,8 +42,10 @@ If my work is useful or inspiring, you can support it here:
 
 ## 📫 Connect
 
-- GitHub: [Shahrouz](https://github.com/Sherouz)
-- Twitter: [Shahrouz](https://x.com/Shahrouzlogs?s=09)
-- Email: Sherouz@proton.me
+- 💻 GitHub: [Shahrouz](https://github.com/Sherouz)
+- 🐦 Twitter: [Shahrouz](https://x.com/Shahrouzlogs?s=09)
+- 📺: YouTube: [Shahrouz](https://www.youtube.com/@Shahrouzlogs)
+- 🔗 LinkedIn: [Shahrouz Nikseresht](https://www.linkedin.com/in/shahrouz-nikseresht/)
+- 📧 Email: Sherouz@proton.me
 
 *Last updated: Oct 01, 2025*
