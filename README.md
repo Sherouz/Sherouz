@@ -43,7 +43,7 @@ If my work is useful or inspiring, you can support it here:
 ## 📫 Connect
 
 - GitHub: [Shahrouz](https://github.com/Sherouz)
-- Twitter: [@Shahrouzlogs](https://x.com/Sherouzlogs?s=09)
+- Twitter: [Shahrouz](https://x.com/Shahrouzlogs?s=09)
 - Email: Sherouz@proton.me
 
 *Last updated: Oct 01, 2025*
