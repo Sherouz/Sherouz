@@ -15,8 +15,9 @@ This GitHub documents my journey toward professional backend development through
 
 ## 📂 Featured Projects
 
-- [Retro Terminal Guess](https://github.com/Sherouz/retro-terminal-guess) — Command-line guessing game in Python, emphasizing loops, conditionals, and clean code practices
-- [Coffee Machine CLI](https://github.com/Sherouz/coffee-machine-cli) — Beginner Python CLI project simulating a coffee machine, focusing on OOP and command-line applications
+- [Retro Terminal Guess](https://github.com/Sherouz/retro-terminal-guess) — Command-line guessing game in Python, emphasizing loops, conditionals, and clean code practices.
+- [Coffee Machine CLI](https://github.com/Sherouz/coffee-machine-cli) — Beginner Python CLI project simulating a coffee machine, focusing on OOP and command-line applications.
+- [Tiny Hero](https://github.com/Sherouz/tiny-hero) — A turn-based combat system in Python, designed to master advanced OOP, modular architecture, and the Façade Pattern using the Rich CLI library.
 - More projects coming as I continue building and experimenting
 
 ## 🚀 My Approach
@@ -48,4 +49,4 @@ If my work is useful or inspiring, you can support it here:
 - 🔗 LinkedIn: [Shahrouz Nikseresht](https://www.linkedin.com/in/shahrouz-nikseresht/)
 - 📧 Email: Sherouz@proton.me
 
-*Last updated: Oct 01, 2025*
+*Last updated: Oct 06, 2025*
