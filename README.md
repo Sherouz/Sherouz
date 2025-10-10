@@ -20,6 +20,17 @@ This GitHub documents my journey toward professional backend development through
 - [Tiny Hero](https://github.com/Sherouz/tiny-hero) — A turn-based combat system in Python, designed to master advanced OOP, modular architecture, and the Façade Pattern using the Rich CLI library.
 - More projects coming as I continue building and experimenting
 
+## 📦 Project Collections
+
+Here are my **collection-style repositories**, each containing multiple small projects or tools, designed to be explored together and learned from step by step.
+
+* [Real World Python Utilities](https://github.com/Sherouz/real-world-python-utilities)
+  A collection of **practical Python tools** for automation, file organization, and simplifying daily workflows. Each tool is **lightweight, modular, and independent**, perfect for learning or personal productivity.
+* [80 Days of Challenges](https://github.com/Sherouz/80-days-of-challenges)
+  A personal Python challenge with **small exercises (5–50 lines)** over 80 days. Focuses on **logic, algorithms, and Python fundamentals**, with progress tracked and sharable on Twitter (`#80DaysOfChallenges`).
+
+> Each collection is structured to let you explore **independent scripts or mini projects** step by step, emphasizing clarity, reusability, and learning through doing.
+
 ## 🚀 My Approach
 
 I focus on **learning by building practical projects**. Each project is designed to reinforce skills step by step, from exercises to functional applications.
@@ -45,8 +56,9 @@ If my work is useful or inspiring, you can support it here:
 
 - 💻 GitHub: [Shahrouz](https://github.com/Sherouz)
 - 🐦 Twitter: [Shahrouz](https://x.com/Shahrouzlogs?s=09)
-- 📺: YouTube: [Shahrouz](https://www.youtube.com/@Shahrouzlogs)
+- 📺 YouTube: [Shahrouz](https://www.youtube.com/@Shahrouzlogs)
+- ✍ Dev.to: [Shahrouz](https://dev.to/shahrouzlogs)
 - 🔗 LinkedIn: [Shahrouz Nikseresht](https://www.linkedin.com/in/shahrouz-nikseresht/)
 - 📧 Email: Sherouz@proton.me
 
-*Last updated: Oct 06, 2025*
+*Last updated: Oct 10, 2025*
