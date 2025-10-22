@@ -54,9 +54,9 @@ If my work is useful or inspiring, you can support it here:
 
 ## 📫 Connect
 
-- 🐦 Twitter: [Shahrouz](https://x.com/Shahrouzlogs?s=09)
-- 📺 YouTube: [Shahrouz](https://www.youtube.com/@Shahrouzlogs)
+- 🐦 Twitter: [Shahrouz Nikseresht](https://x.com/Shahrouzlogs?s=09)
+- 📺 YouTube: [Shahrouz Nikseresht](https://www.youtube.com/@Shahrouzlogs)
 - 🔗 LinkedIn: [Shahrouz Nikseresht](https://www.linkedin.com/in/shahrouz-nikseresht/)
 - 📧 Email: Sherouz@proton.me
 
-*Last updated: Oct 10, 2025*
+*Last updated: Oct 22, 2025*
